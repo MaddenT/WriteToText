@@ -1,6 +1,8 @@
 # WriteToText
 
 ##Resources
+
+
 Good for Hidden Markov Model Application:
 https://pdfs.semanticscholar.org/1801/67646e8a6c910837b4df26ae8f325cdabb63.pdf
 
