@@ -1,6 +1,6 @@
 # WriteToText
 
-##Resources
+## Resources
 
 
 Good for Hidden Markov Model Application:
