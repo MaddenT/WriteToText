@@ -21,3 +21,6 @@ https://www.hindawi.com/journals/mpe/2015/536192/
 
 Maybe more information on different usable algorithms:
 https://tel.archives-ouvertes.fr/tel-01578068/document
+
+A Non-Academic Article on an Algorithm That Seems Incredibly efficent for Recognition:
+https://sakshambhatla.wordpress.com/2013/07/28/char_recog_2/
