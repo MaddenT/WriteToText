@@ -15,7 +15,7 @@ Example of a HMM being implemented in Python(Using the academic paper above rath
 https://www.digitalvidya.com/blog/inroduction-to-hidden-markov-models-using-python/
 
 
-Using Primitives for an Auto-completion Approach:
+Using Primitives for an Auto-completion Approach *Leave this one out, it's a bit too complicated*:
 https://www.hindawi.com/journals/mpe/2015/536192/
 
 
